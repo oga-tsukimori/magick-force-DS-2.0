@@ -1,0 +1,1366 @@
+{
+  "system": {
+    "light mode": {
+      "color": {
+        "fill": {
+          "background": "{color/slate/100}",
+          "foreground": "{color/neutral/white}",
+          "static": {
+            "red": {
+              "01": "{color/red/200}",
+              "03": "{color/red/500}",
+              "05": "{color/red/700}",
+              "04": "{color/red/600}",
+              "02": "{color/red/400}",
+              "06": "{color/red/800}"
+            },
+            "orange": {
+              "01": "{color/orange/200}",
+              "02": "{color/orange/500}",
+              "03": "{color/orange/700}"
+            },
+            "amber": {
+              "01": "{color/amber/200}",
+              "02": "{color/amber/500}",
+              "03": "{color/amber/700}"
+            },
+            "yellow": {
+              "01": "{color/yellow/200}",
+              "02": "{color/yellow/500}",
+              "03": "{color/yellow/700}"
+            },
+            "lime": {
+              "01": "{color/lime/200}",
+              "02": "{color/lime/500}",
+              "03": "{color/lime/700}"
+            },
+            "green": {
+              "01": "{color/green/200}",
+              "03": "{color/green/500}",
+              "05": "{color/green/700}",
+              "02": "{color/green/400}",
+              "04": "{color/green/600}"
+            },
+            "emerald": {
+              "01": "{color/emerald/200}",
+              "02": "{color/emerald/500}",
+              "03": "{color/emerald/700}"
+            },
+            "teal": {
+              "01": "{color/teal/200}",
+              "02": "{color/teal/500}",
+              "03": "{color/teal/700}"
+            },
+            "cyan": {
+              "01": "{color/cyan/200}",
+              "02": "{color/cyan/500}",
+              "03": "{color/cyan/700}"
+            },
+            "sky": {
+              "01": "{color/sky/200}",
+              "02": "{color/sky/500}",
+              "03": "{color/sky/700}"
+            },
+            "blue": {
+              "01": "{color/blue/200}",
+              "03": "{color/blue/500}",
+              "05": "{color/blue/700}",
+              "02": "{color/blue/400}",
+              "04": "{color/blue/600}",
+              "06": "{color/blue/800}"
+            },
+            "indigo": {
+              "01": "{color/indigo/200}",
+              "02": "{color/indigo/500}",
+              "03": "{color/indigo/700}"
+            },
+            "violet": {
+              "01": "{color/violet/200}",
+              "02": "{color/violet/500}",
+              "03": "{color/violet/700}"
+            },
+            "purple": {
+              "01": "{color/purple/200}",
+              "02": "{color/purple/500}",
+              "03": "{color/purple/700}"
+            },
+            "fuchsia": {
+              "01": "{color/fuchsia/200}",
+              "02": "{color/fuchsia/500}",
+              "03": "{color/fuchsia/700}"
+            },
+            "pink": {
+              "01": "{color/pink/200}",
+              "02": "{color/pink/500}",
+              "03": "{color/pink/700}"
+            },
+            "rose": {
+              "01": "{color/rose/200}",
+              "02": "{color/rose/500}",
+              "dark": "{color/rose/700}"
+            },
+            "slate": {
+              "01": "{color/slate/100}",
+              "02": "{color/slate/200}",
+              "03": "{color/slate/500}",
+              "04": "{color/slate/700}",
+              "05": "{color/slate/800}"
+            }
+          },
+          "inverse": {
+            "slate": {
+              "10": "{color/slate/900}",
+              "01": "{color/neutral/white}",
+              "03": "{color/slate/100}",
+              "07": "{color/slate/500}",
+              "06": "{color/slate/400}",
+              "08": "{color/slate/700}",
+              "09": "{color/slate/800}",
+              "04": "{color/slate/200}",
+              "05": "{color/slate/300}",
+              "02": "{color/neutral/white}"
+            },
+            "blue": {
+              "01": "{color/blue/100}",
+              "02": "{color/blue/200}"
+            },
+            "red": {
+              "01": "{color/red/100}",
+              "02": "{color/red/200}"
+            },
+            "orange": {
+              "01": "{color/orange/100}",
+              "02": "{color/orange/200}"
+            },
+            "yellow": {
+              "01": "{color/yellow/100}",
+              "02": "{color/yellow/200}"
+            },
+            "lime": {
+              "01": "{color/lime/100}",
+              "02": "{color/lime/200}"
+            },
+            "green": {
+              "01": "{color/green/100}",
+              "02": "{color/green/200}"
+            },
+            "emerald": {
+              "01": "{color/emerald/100}",
+              "02": "{color/emerald/200}"
+            },
+            "teal": {
+              "01": "{color/teal/100}",
+              "02": "{color/teal/200}"
+            },
+            "cyan": {
+              "01": "{color/cyan/100}",
+              "02": "{color/cyan/200}"
+            },
+            "sky": {
+              "01": "{color/sky/100}",
+              "02": "{color/sky/200}"
+            },
+            "violet": {
+              "01": "{color/violet/100}",
+              "02": "{color/violet/200}"
+            },
+            "indigo": {
+              "01": "{color/indigo/100}",
+              "02": "{color/indigo/200}"
+            },
+            "purple": {
+              "01": "{color/purple/100}",
+              "02": "{color/purple/200}"
+            },
+            "fuchsia": {
+              "01": "{color/fuchsia/100}",
+              "02": "{color/fuchsia/200}"
+            },
+            "pink": {
+              "01": "{color/pink/100}",
+              "02": "{color/pink/200}"
+            },
+            "rose": {
+              "01": "{color/rose/100}",
+              "02": "{color/rose/200}"
+            },
+            "amber": {
+              "01": "{color/amber/100}",
+              "02": "{color/amber/200}"
+            }
+          }
+        },
+        "stroke": {
+          "inverse": {
+            "slate": {
+              "01": "{color/neutral/white}",
+              "03": "{color/slate/300}",
+              "04": "{color/slate/800}",
+              "02": "{color/slate/200}"
+            },
+            "red": {
+              "01": "{color/red/300}",
+              "02": "{color/red/600}"
+            },
+            "orange": {
+              "01": "{color/orange/300}",
+              "02": "{color/orange/600}"
+            },
+            "amber": {
+              "01": "{color/amber/300}",
+              "02": "{color/amber/600}"
+            },
+            "yellow": {
+              "01": "{color/yellow/300}",
+              "02": "{color/yellow/600}"
+            },
+            "lime": {
+              "01": "{color/lime/300}",
+              "02": "{color/lime/600}"
+            },
+            "green": {
+              "01": "{color/green/300}",
+              "02": "{color/green/600}"
+            },
+            "emerald": {
+              "01": "{color/emerald/300}",
+              "02": "{color/emerald/600}"
+            },
+            "teal": {
+              "01": "{color/teal/300}",
+              "02": "{color/teal/600}"
+            },
+            "cyan": {
+              "01": "{color/cyan/300}",
+              "02": "{color/cyan/600}"
+            },
+            "sky": {
+              "01": "{color/sky/300}",
+              "02": "{color/sky/600}"
+            },
+            "blue": {
+              "01": "{color/blue/300}",
+              "02": "{color/blue/600}"
+            },
+            "indigo": {
+              "01": "{color/indigo/300}",
+              "02": "{color/indigo/600}"
+            },
+            "violet": {
+              "01": "{color/violet/300}",
+              "02": "{color/violet/600}"
+            },
+            "purple": {
+              "01": "{color/purple/300}",
+              "02": "{color/purple/600}"
+            },
+            "fuchsia": {
+              "01": "{color/fuchsia/300}",
+              "02": "{color/fuchsia/600}"
+            },
+            "pink": {
+              "01": "{color/pink/300}",
+              "02": "{color/pink/600}"
+            },
+            "rose": {
+              "01": "{color/rose/300}",
+              "02": "{color/rose/600}"
+            }
+          },
+          "static": {
+            "slate": {
+              "01": "{color/slate/100}",
+              "02": "{color/slate/200}",
+              "03": "{color/slate/500}",
+              "04": "{color/slate/700}",
+              "05": "{color/slate/800}"
+            },
+            "red": {
+              "01": "{color/red/200}",
+              "02": "{color/red/400}",
+              "03": "{color/red/500}",
+              "04": "{color/red/600}",
+              "05": "{color/red/700}"
+            },
+            "orange": {
+              "01": "{color/orange/200}",
+              "02": "{color/orange/500}",
+              "03": "{color/orange/700}"
+            },
+            "amber": {
+              "01": "{color/amber/200}",
+              "02": "{color/amber/500}",
+              "03": "{color/amber/700}"
+            },
+            "yellow": {
+              "01": "{color/yellow/200}",
+              "02": "{color/yellow/500}",
+              "03": "{color/yellow/700}"
+            },
+            "lime": {
+              "01": "{color/lime/200}",
+              "02": "{color/lime/500}",
+              "03": "{color/lime/700}"
+            },
+            "green": {
+              "01": "{color/green/200}",
+              "02": "{color/green/500}",
+              "03": "{color/green/700}"
+            },
+            "emerald": {
+              "01": "{color/emerald/200}",
+              "02": "{color/emerald/500}",
+              "03": "{color/emerald/700}"
+            },
+            "teal": {
+              "01": "{color/teal/200}",
+              "02": "{color/teal/500}",
+              "03": "{color/teal/700}"
+            },
+            "cyan": {
+              "01": "{color/cyan/200}",
+              "02": "{color/cyan/500}",
+              "03": "{color/cyan/700}"
+            },
+            "sky": {
+              "01": "{color/sky/200}",
+              "02": "{color/sky/500}",
+              "03": "{color/sky/700}"
+            },
+            "blue": {
+              "01": "{color/blue/200}",
+              "02": "{color/blue/400}",
+              "03": "{color/blue/500}",
+              "04": "{color/blue/600}",
+              "05": "{color/blue/700}"
+            },
+            "indigo": {
+              "01": "{color/indigo/200}",
+              "02": "{color/indigo/500}",
+              "03": "{color/indigo/700}"
+            },
+            "violet": {
+              "01": "{color/violet/200}",
+              "02": "{color/violet/500}",
+              "03": "{color/violet/700}"
+            },
+            "purple": {
+              "01": "{color/purple/200}",
+              "02": "{color/purple/500}",
+              "03": "{color/purple/700}"
+            },
+            "fuchsia": {
+              "01": "{color/fuchsia/200}",
+              "02": "{color/fuchsia/500}",
+              "03": "{color/fuchsia/700}"
+            },
+            "pink": {
+              "01": "{color/pink/200}",
+              "02": "{color/pink/500}",
+              "03": "{color/pink/700}"
+            },
+            "rose": {
+              "01": "{color/rose/200}",
+              "02": "{color/rose/500}",
+              "dark": "{color/rose/700}"
+            }
+          }
+        },
+        "element": {
+          "inverse": {
+            "default": "{color/slate/800}",
+            "gray": "{color/slate/500}",
+            "disabled": "{color/slate/400}",
+            "red": "{color/red/600}",
+            "defaultAlt": "{color/neutral/white}",
+            "blue": "{color/blue/600}",
+            "orange": "{color/orange/600}",
+            "amber": "{color/amber/600}",
+            "yellow": "{color/yellow/600}",
+            "lime": "{color/lime/600}",
+            "green": "{color/green/600}",
+            "emerald": "{color/emerald/600}",
+            "teal": "{color/teal/600}",
+            "cyan": "{color/cyan/600}",
+            "sky": "{color/sky/600}",
+            "indigo": "{color/indigo/600}",
+            "violet": "{color/violet/600}",
+            "purple": "{color/purple/600}",
+            "fuchsia": "{color/fuchsia/600}",
+            "pink": "{color/pink/600}",
+            "rose": "{color/rose/600}",
+            "soft": "{color/slate/200}"
+          },
+          "static": {
+            "black": "{color/slate/800}",
+            "white": "{color/neutral/white}",
+            "red": "{color/red/500}",
+            "blue": "{color/blue/500}",
+            "orange": "{color/orange/500}",
+            "amber": "{color/amber/500}",
+            "yellow": "{color/yellow/500}",
+            "lime": "{color/lime/500}",
+            "green": "{color/green/500}",
+            "emerald": "{color/emerald/500}",
+            "teal": "{color/teal/500}",
+            "cyan": "{color/cyan/500}",
+            "sky": "{color/sky/500}",
+            "indigo": "{color/indigo/500}",
+            "violet": "{color/violet/500}",
+            "purple": "{color/purple/500}",
+            "fuchsia": "{color/fuchsia/500}",
+            "pink": "{color/pink/500}",
+            "rose": "{color/rose/500}"
+          }
+        },
+        "chart": {
+          "inverse": {
+            "slate": {
+              "10": "{color/slate/900}",
+              "11": "{color/slate/950}",
+              "01": "{color/slate/50}",
+              "02": "{color/slate/100}",
+              "03": "{color/slate/200}",
+              "04": "{color/slate/300}",
+              "05": "{color/slate/400}",
+              "06": "{color/slate/500}",
+              "08": "{color/slate/700}",
+              "09": "{color/slate/800}",
+              "07": "{color/slate/600}"
+            },
+            "red": {
+              "10": "{color/red/900}",
+              "11": "{color/red/950}",
+              "01": "{color/red/50}",
+              "02": "{color/red/100}",
+              "03": "{color/red/200}",
+              "04": "{color/red/300}",
+              "05": "{color/red/400}",
+              "06": "{color/red/500}",
+              "07": "{color/red/600}",
+              "08": "{color/red/700}",
+              "09": "{color/red/800}"
+            },
+            "orange": {
+              "10": "{color/orange/900}",
+              "11": "{color/orange/950}",
+              "01": "{color/orange/50}",
+              "02": "{color/orange/100}",
+              "03": "{color/orange/200}",
+              "04": "{color/orange/300}",
+              "05": "{color/orange/400}",
+              "06": "{color/orange/500}",
+              "07": "{color/orange/600}",
+              "08": "{color/orange/700}",
+              "09": "{color/orange/800}"
+            },
+            "amber": {
+              "10": "{color/amber/900}",
+              "11": "{color/amber/950}",
+              "01": "{color/amber/50}",
+              "02": "{color/amber/100}",
+              "03": "{color/amber/200}",
+              "04": "{color/amber/300}",
+              "05": "{color/amber/400}",
+              "06": "{color/amber/500}",
+              "07": "{color/amber/600}",
+              "08": "{color/amber/700}",
+              "09": "{color/amber/800}"
+            },
+            "yellow": {
+              "10": "{color/yellow/900}",
+              "11": "{color/yellow/950}",
+              "01": "{color/yellow/50}",
+              "02": "{color/yellow/100}",
+              "03": "{color/yellow/200}",
+              "04": "{color/yellow/300}",
+              "05": "{color/yellow/400}",
+              "06": "{color/yellow/500}",
+              "07": "{color/yellow/600}",
+              "08": "{color/yellow/700}",
+              "09": "{color/yellow/800}"
+            },
+            "blue": {
+              "10": "{color/blue/900}",
+              "11": "{color/blue/950}",
+              "01": "{color/blue/50}",
+              "02": "{color/blue/100}",
+              "03": "{color/blue/200}",
+              "04": "{color/blue/300}",
+              "05": "{color/blue/400}",
+              "06": "{color/blue/500}",
+              "07": "{color/blue/600}",
+              "08": "{color/blue/700}",
+              "09": "{color/blue/800}"
+            },
+            "indigo": {
+              "10": "{color/indigo/900}",
+              "11": "{color/indigo/950}",
+              "01": "{color/indigo/50}",
+              "02": "{color/indigo/100}",
+              "03": "{color/indigo/200}",
+              "04": "{color/indigo/300}",
+              "05": "{color/indigo/400}",
+              "06": "{color/indigo/500}",
+              "07": "{color/indigo/600}",
+              "08": "{color/indigo/700}",
+              "09": "{color/indigo/800}"
+            },
+            "sky": {
+              "10": "{color/sky/900}",
+              "11": "{color/sky/950}",
+              "01": "{color/sky/50}",
+              "02": "{color/sky/100}",
+              "03": "{color/sky/200}",
+              "04": "{color/sky/300}",
+              "05": "{color/sky/400}",
+              "06": "{color/sky/500}",
+              "07": "{color/sky/600}",
+              "08": "{color/sky/700}",
+              "09": "{color/sky/800}"
+            },
+            "cyan": {
+              "10": "{color/cyan/900}",
+              "11": "{color/cyan/950}",
+              "01": "{color/cyan/50}",
+              "02": "{color/cyan/100}",
+              "03": "{color/cyan/200}",
+              "04": "{color/cyan/300}",
+              "05": "{color/cyan/400}",
+              "06": "{color/cyan/500}",
+              "07": "{color/cyan/600}",
+              "08": "{color/cyan/700}",
+              "09": "{color/cyan/800}"
+            },
+            "teal": {
+              "10": "{color/teal/900}",
+              "11": "{color/teal/950}",
+              "01": "{color/teal/50}",
+              "02": "{color/teal/100}",
+              "03": "{color/teal/200}",
+              "04": "{color/teal/300}",
+              "05": "{color/teal/400}",
+              "06": "{color/teal/500}",
+              "07": "{color/teal/600}",
+              "08": "{color/teal/700}",
+              "09": "{color/teal/800}"
+            },
+            "emerald": {
+              "10": "{color/emerald/900}",
+              "11": "{color/emerald/950}",
+              "01": "{color/emerald/50}",
+              "02": "{color/emerald/100}",
+              "03": "{color/emerald/200}",
+              "04": "{color/emerald/300}",
+              "05": "{color/emerald/400}",
+              "06": "{color/emerald/500}",
+              "07": "{color/emerald/600}",
+              "08": "{color/emerald/700}",
+              "09": "{color/emerald/800}"
+            },
+            "green": {
+              "10": "{color/green/900}",
+              "11": "{color/green/950}",
+              "01": "{color/green/50}",
+              "02": "{color/green/100}",
+              "03": "{color/green/200}",
+              "04": "{color/green/300}",
+              "05": "{color/green/400}",
+              "06": "{color/green/500}",
+              "07": "{color/green/600}",
+              "08": "{color/green/700}",
+              "09": "{color/green/800}"
+            },
+            "lime": {
+              "10": "{color/lime/900}",
+              "11": "{color/lime/950}",
+              "01": "{color/lime/50}",
+              "02": "{color/lime/100}",
+              "03": "{color/lime/200}",
+              "04": "{color/lime/300}",
+              "05": "{color/lime/400}",
+              "06": "{color/lime/500}",
+              "07": "{color/lime/600}",
+              "08": "{color/lime/700}",
+              "09": "{color/lime/800}"
+            },
+            "violet": {
+              "10": "{color/violet/900}",
+              "11": "{color/violet/950}",
+              "01": "{color/violet/50}",
+              "02": "{color/violet/100}",
+              "03": "{color/violet/200}",
+              "04": "{color/violet/300}",
+              "05": "{color/violet/400}",
+              "06": "{color/violet/500}",
+              "07": "{color/violet/600}",
+              "08": "{color/violet/700}",
+              "09": "{color/violet/800}"
+            },
+            "purple": {
+              "10": "{color/purple/900}",
+              "11": "{color/purple/950}",
+              "01": "{color/purple/50}",
+              "02": "{color/purple/100}",
+              "03": "{color/purple/200}",
+              "04": "{color/purple/300}",
+              "05": "{color/purple/400}",
+              "06": "{color/purple/500}",
+              "07": "{color/purple/600}",
+              "08": "{color/purple/700}",
+              "09": "{color/purple/800}"
+            },
+            "fuchsia": {
+              "10": "{color/fuchsia/900}",
+              "11": "{color/fuchsia/950}",
+              "01": "{color/fuchsia/50}",
+              "02": "{color/fuchsia/100}",
+              "03": "{color/fuchsia/200}",
+              "04": "{color/fuchsia/300}",
+              "05": "{color/fuchsia/400}",
+              "06": "{color/fuchsia/500}",
+              "07": "{color/fuchsia/600}",
+              "08": "{color/fuchsia/700}",
+              "09": "{color/fuchsia/800}"
+            },
+            "pink": {
+              "10": "{color/pink/900}",
+              "11": "{color/pink/950}",
+              "01": "{color/pink/50}",
+              "02": "{color/pink/100}",
+              "03": "{color/pink/200}",
+              "04": "{color/pink/300}",
+              "05": "{color/pink/400}",
+              "06": "{color/pink/500}",
+              "07": "{color/pink/600}",
+              "08": "{color/pink/700}",
+              "09": "{color/pink/800}"
+            },
+            "rose": {
+              "10": "{color/rose/900}",
+              "11": "{color/rose/950}",
+              "01": "{color/rose/50}",
+              "02": "{color/rose/100}",
+              "03": "{color/rose/200}",
+              "04": "{color/rose/300}",
+              "05": "{color/rose/400}",
+              "06": "{color/rose/500}",
+              "07": "{color/rose/600}",
+              "08": "{color/rose/700}",
+              "09": "{color/rose/800}"
+            }
+          }
+        }
+      },
+      "opacity": {
+        "inverse": {
+          "10": "rgba(255, 255, 255, 0.80)",
+          "01": "rgba(255, 255, 255, 0.08)",
+          "02": "rgba(255, 255, 255, 0.16)",
+          "03": "rgba(255, 255, 255, 0.24)",
+          "04": "rgba(255, 255, 255, 0.32)",
+          "05": "rgba(255, 255, 255, 0.40)",
+          "06": "rgba(255, 255, 255, 0.48)",
+          "07": "rgba(255, 255, 255, 0.56)",
+          "08": "rgba(255, 255, 255, 0.64)",
+          "09": "rgba(255, 255, 255, 0.72)",
+          "00": "rgba(255, 255, 255, 0.00)"
+        },
+        "static": {
+          "10": "rgba(0, 0, 0, 0.80)",
+          "01": "rgba(0, 0, 0, 0.08)",
+          "02": "rgba(0, 0, 0, 0.16)",
+          "03": "rgba(0, 0, 0, 0.24)",
+          "04": "rgba(0, 0, 0, 0.32)",
+          "05": "rgba(0, 0, 0, 0.40)",
+          "06": "rgba(0, 0, 0, 0.48)",
+          "07": "rgba(0, 0, 0, 0.56)",
+          "08": "rgba(0, 0, 0, 0.64)",
+          "09": "rgba(0, 0, 0, 0.72)",
+          "00": "rgba(0, 0, 0, 0.00)"
+        }
+      }
+    },
+    "dark mode": {
+      "color": {
+        "fill": {
+          "background": "{color/slate/800}",
+          "foreground": "{color/slate/900}",
+          "static": {
+            "red": {
+              "01": "{color/red/200}",
+              "03": "{color/red/500}",
+              "05": "{color/red/700}",
+              "04": "{color/red/600}",
+              "02": "{color/red/400}",
+              "06": "{color/red/800}"
+            },
+            "orange": {
+              "01": "{color/orange/200}",
+              "02": "{color/orange/500}",
+              "03": "{color/orange/700}"
+            },
+            "amber": {
+              "01": "{color/amber/200}",
+              "02": "{color/amber/500}",
+              "03": "{color/amber/700}"
+            },
+            "yellow": {
+              "01": "{color/yellow/200}",
+              "02": "{color/yellow/500}",
+              "03": "{color/yellow/700}"
+            },
+            "lime": {
+              "01": "{color/lime/200}",
+              "02": "{color/lime/500}",
+              "03": "{color/lime/700}"
+            },
+            "green": {
+              "01": "{color/green/200}",
+              "03": "{color/green/500}",
+              "05": "{color/green/700}",
+              "02": "{color/green/400}",
+              "04": "{color/green/600}"
+            },
+            "emerald": {
+              "01": "{color/emerald/200}",
+              "02": "{color/emerald/500}",
+              "03": "{color/emerald/700}"
+            },
+            "teal": {
+              "01": "{color/teal/200}",
+              "02": "{color/teal/500}",
+              "03": "{color/teal/700}"
+            },
+            "cyan": {
+              "01": "{color/cyan/200}",
+              "02": "{color/cyan/500}",
+              "03": "{color/cyan/700}"
+            },
+            "sky": {
+              "01": "{color/sky/200}",
+              "02": "{color/sky/500}",
+              "03": "{color/sky/700}"
+            },
+            "blue": {
+              "01": "{color/blue/200}",
+              "03": "{color/blue/500}",
+              "05": "{color/blue/700}",
+              "02": "{color/blue/400}",
+              "04": "{color/blue/600}",
+              "06": "{color/blue/800}"
+            },
+            "indigo": {
+              "01": "{color/indigo/200}",
+              "02": "{color/indigo/500}",
+              "03": "{color/indigo/700}"
+            },
+            "violet": {
+              "01": "{color/violet/200}",
+              "02": "{color/violet/500}",
+              "03": "{color/violet/700}"
+            },
+            "purple": {
+              "01": "{color/purple/200}",
+              "02": "{color/purple/500}",
+              "03": "{color/purple/700}"
+            },
+            "fuchsia": {
+              "01": "{color/fuchsia/200}",
+              "02": "{color/fuchsia/500}",
+              "03": "{color/fuchsia/700}"
+            },
+            "pink": {
+              "01": "{color/pink/200}",
+              "02": "{color/pink/500}",
+              "03": "{color/pink/700}"
+            },
+            "rose": {
+              "01": "{color/rose/200}",
+              "02": "{color/rose/500}",
+              "dark": "{color/rose/700}"
+            },
+            "slate": {
+              "01": "{color/slate/100}",
+              "02": "{color/slate/200}",
+              "03": "{color/slate/500}",
+              "04": "{color/slate/700}",
+              "05": "{color/slate/800}"
+            }
+          },
+          "inverse": {
+            "slate": {
+              "10": "{color/neutral/white}",
+              "01": "{color/slate/900}",
+              "03": "{color/slate/800}",
+              "07": "{color/slate/300}",
+              "06": "{color/slate/400}",
+              "08": "{color/slate/200}",
+              "09": "{color/slate/100}",
+              "04": "{color/slate/700}",
+              "05": "{color/slate/500}",
+              "02": "{color/slate/800}"
+            },
+            "blue": {
+              "01": "{color/blue/950}",
+              "02": "{color/blue/900}"
+            },
+            "red": {
+              "01": "{color/red/950}",
+              "02": "{color/red/900}"
+            },
+            "orange": {
+              "01": "{color/orange/950}",
+              "02": "{color/orange/900}"
+            },
+            "yellow": {
+              "01": "{color/yellow/950}",
+              "02": "{color/yellow/900}"
+            },
+            "lime": {
+              "01": "{color/lime/950}",
+              "02": "{color/lime/900}"
+            },
+            "green": {
+              "01": "{color/green/950}",
+              "02": "{color/green/900}"
+            },
+            "emerald": {
+              "01": "{color/emerald/950}",
+              "02": "{color/emerald/900}"
+            },
+            "teal": {
+              "01": "{color/teal/950}",
+              "02": "{color/teal/900}"
+            },
+            "cyan": {
+              "01": "{color/cyan/950}",
+              "02": "{color/cyan/900}"
+            },
+            "sky": {
+              "01": "{color/sky/950}",
+              "02": "{color/sky/900}"
+            },
+            "violet": {
+              "01": "{color/violet/950}",
+              "02": "{color/violet/900}"
+            },
+            "indigo": {
+              "01": "{color/indigo/950}",
+              "02": "{color/indigo/900}"
+            },
+            "purple": {
+              "01": "{color/purple/950}",
+              "02": "{color/purple/900}"
+            },
+            "fuchsia": {
+              "01": "{color/fuchsia/950}",
+              "02": "{color/fuchsia/900}"
+            },
+            "pink": {
+              "01": "{color/pink/950}",
+              "02": "{color/pink/900}"
+            },
+            "rose": {
+              "01": "{color/rose/950}",
+              "02": "{color/rose/900}"
+            },
+            "amber": {
+              "01": "{color/amber/950}",
+              "02": "{color/amber/900}"
+            }
+          }
+        },
+        "stroke": {
+          "inverse": {
+            "slate": {
+              "01": "{color/slate/900}",
+              "03": "{color/slate/600}",
+              "04": "{color/slate/50}",
+              "02": "{color/slate/700}"
+            },
+            "red": {
+              "01": "{color/red/600}",
+              "02": "{color/red/300}"
+            },
+            "orange": {
+              "01": "{color/orange/600}",
+              "02": "{color/orange/300}"
+            },
+            "amber": {
+              "01": "{color/amber/600}",
+              "02": "{color/amber/300}"
+            },
+            "yellow": {
+              "01": "{color/yellow/600}",
+              "02": "{color/yellow/300}"
+            },
+            "lime": {
+              "01": "{color/lime/600}",
+              "02": "{color/lime/300}"
+            },
+            "green": {
+              "01": "{color/green/600}",
+              "02": "{color/green/300}"
+            },
+            "emerald": {
+              "01": "{color/emerald/600}",
+              "02": "{color/emerald/300}"
+            },
+            "teal": {
+              "01": "{color/teal/600}",
+              "02": "{color/teal/300}"
+            },
+            "cyan": {
+              "01": "{color/cyan/600}",
+              "02": "{color/cyan/300}"
+            },
+            "sky": {
+              "01": "{color/sky/600}",
+              "02": "{color/sky/300}"
+            },
+            "blue": {
+              "01": "{color/blue/600}",
+              "02": "{color/blue/300}"
+            },
+            "indigo": {
+              "01": "{color/indigo/600}",
+              "02": "{color/indigo/300}"
+            },
+            "violet": {
+              "01": "{color/violet/600}",
+              "02": "{color/violet/300}"
+            },
+            "purple": {
+              "01": "{color/purple/600}",
+              "02": "{color/purple/300}"
+            },
+            "fuchsia": {
+              "01": "{color/fuchsia/600}",
+              "02": "{color/fuchsia/300}"
+            },
+            "pink": {
+              "01": "{color/pink/600}",
+              "02": "{color/pink/300}"
+            },
+            "rose": {
+              "01": "{color/rose/600}",
+              "02": "{color/rose/300}"
+            }
+          },
+          "static": {
+            "slate": {
+              "01": "{color/slate/100}",
+              "02": "{color/slate/200}",
+              "03": "{color/slate/500}",
+              "04": "{color/slate/700}",
+              "05": "{color/slate/800}"
+            },
+            "red": {
+              "01": "{color/red/200}",
+              "02": "{color/red/400}",
+              "03": "{color/red/500}",
+              "04": "{color/red/600}",
+              "05": "{color/red/700}"
+            },
+            "orange": {
+              "01": "{color/orange/200}",
+              "02": "{color/orange/500}",
+              "03": "{color/orange/700}"
+            },
+            "amber": {
+              "01": "{color/amber/200}",
+              "02": "{color/amber/500}",
+              "03": "{color/amber/700}"
+            },
+            "yellow": {
+              "01": "{color/yellow/200}",
+              "02": "{color/yellow/500}",
+              "03": "{color/yellow/700}"
+            },
+            "lime": {
+              "01": "{color/lime/200}",
+              "02": "{color/lime/500}",
+              "03": "{color/lime/700}"
+            },
+            "green": {
+              "01": "{color/green/200}",
+              "02": "{color/green/500}",
+              "03": "{color/green/700}"
+            },
+            "emerald": {
+              "01": "{color/emerald/200}",
+              "02": "{color/emerald/500}",
+              "03": "{color/emerald/700}"
+            },
+            "teal": {
+              "01": "{color/teal/200}",
+              "02": "{color/teal/500}",
+              "03": "{color/teal/700}"
+            },
+            "cyan": {
+              "01": "{color/cyan/200}",
+              "02": "{color/cyan/500}",
+              "03": "{color/cyan/700}"
+            },
+            "sky": {
+              "01": "{color/sky/200}",
+              "02": "{color/sky/500}",
+              "03": "{color/sky/700}"
+            },
+            "blue": {
+              "01": "{color/blue/200}",
+              "02": "{color/blue/400}",
+              "03": "{color/blue/500}",
+              "04": "{color/blue/600}",
+              "05": "{color/blue/700}"
+            },
+            "indigo": {
+              "01": "{color/indigo/200}",
+              "02": "{color/indigo/500}",
+              "03": "{color/indigo/700}"
+            },
+            "violet": {
+              "01": "{color/violet/200}",
+              "02": "{color/violet/500}",
+              "03": "{color/violet/700}"
+            },
+            "purple": {
+              "01": "{color/purple/200}",
+              "02": "{color/purple/500}",
+              "03": "{color/purple/700}"
+            },
+            "fuchsia": {
+              "01": "{color/fuchsia/200}",
+              "02": "{color/fuchsia/500}",
+              "03": "{color/fuchsia/700}"
+            },
+            "pink": {
+              "01": "{color/pink/200}",
+              "02": "{color/pink/500}",
+              "03": "{color/pink/700}"
+            },
+            "rose": {
+              "01": "{color/rose/200}",
+              "02": "{color/rose/500}",
+              "dark": "{color/rose/700}"
+            }
+          }
+        },
+        "element": {
+          "inverse": {
+            "default": "{color/neutral/white}",
+            "gray": "{color/slate/400}",
+            "disabled": "{color/slate/500}",
+            "red": "{color/red/300}",
+            "defaultAlt": "{color/slate/800}",
+            "blue": "{color/blue/300}",
+            "orange": "{color/orange/300}",
+            "amber": "{color/amber/300}",
+            "yellow": "{color/yellow/300}",
+            "lime": "{color/lime/300}",
+            "green": "{color/green/300}",
+            "emerald": "{color/emerald/300}",
+            "teal": "{color/teal/300}",
+            "cyan": "{color/cyan/300}",
+            "sky": "{color/sky/300}",
+            "indigo": "{color/indigo/300}",
+            "violet": "{color/violet/300}",
+            "purple": "{color/purple/300}",
+            "fuchsia": "{color/fuchsia/300}",
+            "pink": "{color/pink/300}",
+            "rose": "{color/rose/300}",
+            "soft": "{color/slate/700}"
+          },
+          "static": {
+            "black": "{color/slate/800}",
+            "white": "{color/neutral/white}",
+            "red": "{color/red/500}",
+            "blue": "{color/blue/500}",
+            "orange": "{color/orange/500}",
+            "amber": "{color/amber/500}",
+            "yellow": "{color/yellow/500}",
+            "lime": "{color/lime/500}",
+            "green": "{color/green/500}",
+            "emerald": "{color/emerald/500}",
+            "teal": "{color/teal/500}",
+            "cyan": "{color/cyan/500}",
+            "sky": "{color/sky/500}",
+            "indigo": "{color/indigo/500}",
+            "violet": "{color/violet/500}",
+            "purple": "{color/purple/500}",
+            "fuchsia": "{color/fuchsia/500}",
+            "pink": "{color/pink/500}",
+            "rose": "{color/rose/500}"
+          }
+        },
+        "chart": {
+          "inverse": {
+            "slate": {
+              "10": "{color/slate/100}",
+              "11": "{color/slate/50}",
+              "01": "{color/slate/950}",
+              "02": "{color/slate/900}",
+              "03": "{color/slate/800}",
+              "04": "{color/slate/700}",
+              "05": "{color/slate/600}",
+              "06": "{color/slate/500}",
+              "08": "{color/slate/300}",
+              "09": "{color/slate/200}",
+              "07": "{color/slate/400}"
+            },
+            "red": {
+              "10": "{color/red/100}",
+              "11": "{color/red/50}",
+              "01": "{color/red/950}",
+              "02": "{color/red/900}",
+              "03": "{color/red/800}",
+              "04": "{color/red/700}",
+              "05": "{color/red/600}",
+              "06": "{color/red/500}",
+              "07": "{color/red/400}",
+              "08": "{color/red/300}",
+              "09": "{color/red/200}"
+            },
+            "orange": {
+              "10": "{color/orange/100}",
+              "11": "{color/orange/50}",
+              "01": "{color/orange/950}",
+              "02": "{color/orange/900}",
+              "03": "{color/orange/800}",
+              "04": "{color/orange/700}",
+              "05": "{color/orange/600}",
+              "06": "{color/orange/500}",
+              "07": "{color/orange/400}",
+              "08": "{color/orange/300}",
+              "09": "{color/orange/200}"
+            },
+            "amber": {
+              "10": "{color/amber/100}",
+              "11": "{color/amber/50}",
+              "01": "{color/amber/950}",
+              "02": "{color/amber/900}",
+              "03": "{color/amber/800}",
+              "04": "{color/amber/700}",
+              "05": "{color/amber/600}",
+              "06": "{color/amber/500}",
+              "07": "{color/amber/400}",
+              "08": "{color/amber/300}",
+              "09": "{color/amber/200}"
+            },
+            "yellow": {
+              "10": "{color/yellow/100}",
+              "11": "{color/yellow/50}",
+              "01": "{color/yellow/950}",
+              "02": "{color/yellow/900}",
+              "03": "{color/yellow/800}",
+              "04": "{color/yellow/700}",
+              "05": "{color/yellow/600}",
+              "06": "{color/yellow/500}",
+              "07": "{color/yellow/400}",
+              "08": "{color/yellow/300}",
+              "09": "{color/yellow/200}"
+            },
+            "blue": {
+              "10": "{color/blue/100}",
+              "11": "{color/blue/50}",
+              "01": "{color/blue/950}",
+              "02": "{color/blue/900}",
+              "03": "{color/blue/800}",
+              "04": "{color/blue/700}",
+              "05": "{color/blue/600}",
+              "06": "{color/blue/500}",
+              "07": "{color/blue/400}",
+              "08": "{color/blue/300}",
+              "09": "{color/blue/200}"
+            },
+            "indigo": {
+              "10": "{color/indigo/100}",
+              "11": "{color/indigo/50}",
+              "01": "{color/indigo/950}",
+              "02": "{color/indigo/900}",
+              "03": "{color/indigo/800}",
+              "04": "{color/indigo/700}",
+              "05": "{color/indigo/600}",
+              "06": "{color/indigo/500}",
+              "07": "{color/indigo/400}",
+              "08": "{color/indigo/300}",
+              "09": "{color/indigo/200}"
+            },
+            "sky": {
+              "10": "{color/sky/100}",
+              "11": "{color/sky/50}",
+              "01": "{color/sky/950}",
+              "02": "{color/sky/900}",
+              "03": "{color/sky/800}",
+              "04": "{color/sky/700}",
+              "05": "{color/sky/600}",
+              "06": "{color/sky/500}",
+              "07": "{color/sky/400}",
+              "08": "{color/sky/300}",
+              "09": "{color/sky/200}"
+            },
+            "cyan": {
+              "10": "{color/cyan/100}",
+              "11": "{color/cyan/50}",
+              "01": "{color/cyan/950}",
+              "02": "{color/cyan/900}",
+              "03": "{color/cyan/800}",
+              "04": "{color/cyan/700}",
+              "05": "{color/cyan/600}",
+              "06": "{color/cyan/500}",
+              "07": "{color/cyan/400}",
+              "08": "{color/cyan/300}",
+              "09": "{color/cyan/200}"
+            },
+            "teal": {
+              "10": "{color/teal/100}",
+              "11": "{color/teal/50}",
+              "01": "{color/teal/950}",
+              "02": "{color/teal/900}",
+              "03": "{color/teal/800}",
+              "04": "{color/teal/700}",
+              "05": "{color/teal/600}",
+              "06": "{color/teal/500}",
+              "07": "{color/teal/400}",
+              "08": "{color/teal/300}",
+              "09": "{color/teal/200}"
+            },
+            "emerald": {
+              "10": "{color/emerald/100}",
+              "11": "{color/emerald/50}",
+              "01": "{color/emerald/950}",
+              "02": "{color/emerald/900}",
+              "03": "{color/emerald/800}",
+              "04": "{color/emerald/700}",
+              "05": "{color/emerald/600}",
+              "06": "{color/emerald/500}",
+              "07": "{color/emerald/400}",
+              "08": "{color/emerald/300}",
+              "09": "{color/emerald/200}"
+            },
+            "green": {
+              "10": "{color/green/100}",
+              "11": "{color/green/50}",
+              "01": "{color/green/950}",
+              "02": "{color/green/900}",
+              "03": "{color/green/800}",
+              "04": "{color/green/700}",
+              "05": "{color/green/600}",
+              "06": "{color/green/500}",
+              "07": "{color/green/400}",
+              "08": "{color/green/300}",
+              "09": "{color/green/200}"
+            },
+            "lime": {
+              "10": "{color/lime/100}",
+              "11": "{color/lime/50}",
+              "01": "{color/lime/950}",
+              "02": "{color/lime/900}",
+              "03": "{color/lime/800}",
+              "04": "{color/lime/700}",
+              "05": "{color/lime/600}",
+              "06": "{color/lime/500}",
+              "07": "{color/lime/400}",
+              "08": "{color/lime/300}",
+              "09": "{color/lime/200}"
+            },
+            "violet": {
+              "10": "{color/violet/100}",
+              "11": "{color/violet/50}",
+              "01": "{color/violet/950}",
+              "02": "{color/violet/900}",
+              "03": "{color/violet/800}",
+              "04": "{color/violet/700}",
+              "05": "{color/violet/600}",
+              "06": "{color/violet/500}",
+              "07": "{color/violet/400}",
+              "08": "{color/violet/300}",
+              "09": "{color/violet/200}"
+            },
+            "purple": {
+              "10": "{color/purple/100}",
+              "11": "{color/purple/50}",
+              "01": "{color/purple/950}",
+              "02": "{color/purple/900}",
+              "03": "{color/purple/800}",
+              "04": "{color/purple/700}",
+              "05": "{color/purple/600}",
+              "06": "{color/purple/500}",
+              "07": "{color/purple/400}",
+              "08": "{color/purple/300}",
+              "09": "{color/purple/200}"
+            },
+            "fuchsia": {
+              "10": "{color/fuchsia/100}",
+              "11": "{color/fuchsia/50}",
+              "01": "{color/fuchsia/950}",
+              "02": "{color/fuchsia/900}",
+              "03": "{color/fuchsia/800}",
+              "04": "{color/fuchsia/700}",
+              "05": "{color/purple/600}",
+              "06": "{color/fuchsia/500}",
+              "07": "{color/fuchsia/400}",
+              "08": "{color/fuchsia/300}",
+              "09": "{color/fuchsia/200}"
+            },
+            "pink": {
+              "10": "{color/pink/100}",
+              "11": "{color/pink/50}",
+              "01": "{color/pink/950}",
+              "02": "{color/pink/900}",
+              "03": "{color/pink/800}",
+              "04": "{color/pink/700}",
+              "05": "{color/pink/600}",
+              "06": "{color/pink/500}",
+              "07": "{color/pink/400}",
+              "08": "{color/pink/300}",
+              "09": "{color/pink/200}"
+            },
+            "rose": {
+              "10": "{color/rose/100}",
+              "11": "{color/rose/50}",
+              "01": "{color/rose/950}",
+              "02": "{color/rose/900}",
+              "03": "{color/rose/800}",
+              "04": "{color/rose/700}",
+              "05": "{color/rose/600}",
+              "06": "{color/rose/500}",
+              "07": "{color/rose/400}",
+              "08": "{color/rose/300}",
+              "09": "{color/rose/200}"
+            }
+          }
+        }
+      },
+      "opacity": {
+        "inverse": {
+          "10": "rgba(15, 23, 42, 0.80)",
+          "01": "rgba(15, 23, 42, 0.08)",
+          "02": "rgba(15, 23, 42, 0.16)",
+          "03": "rgba(15, 23, 42, 0.24)",
+          "04": "rgba(15, 23, 42, 0.32)",
+          "05": "rgba(15, 23, 42, 0.40)",
+          "06": "rgba(15, 23, 42, 0.48)",
+          "07": "rgba(15, 23, 42, 0.56)",
+          "08": "rgba(15, 23, 42, 0.64)",
+          "09": "rgba(15, 23, 42, 0.72)",
+          "00": "rgba(15, 23, 42, 0.00)"
+        },
+        "static": {
+          "10": "rgba(0, 0, 0, 0.80)",
+          "01": "rgba(0, 0, 0, 0.08)",
+          "02": "rgba(0, 0, 0, 0.16)",
+          "03": "rgba(0, 0, 0, 0.24)",
+          "04": "rgba(0, 0, 0, 0.32)",
+          "05": "rgba(0, 0, 0, 0.40)",
+          "06": "rgba(0, 0, 0, 0.48)",
+          "07": "rgba(0, 0, 0, 0.56)",
+          "08": "rgba(0, 0, 0, 0.64)",
+          "09": "rgba(0, 0, 0, 0.72)",
+          "00": "rgba(0, 0, 0, 0.00)"
+        }
+      }
+    }
+  }
+}
